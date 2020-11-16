@@ -31,7 +31,7 @@ Most of the data treatment is undertaken in the Jupyter notebook. To successfull
 Required versions: Jupyter notebook >=5.5, Python >=3.4.
 
 #### 1.2. Install requirements
-All python packages required to run the notebook can be install with this command through the Python 3 or Anaconda navigator command prompt.  
+All python packages required to run the notebook can be install through the Python 3 or Anaconda navigator command prompt.  
 
 #### 1.3. Test dataset
 The Gauguin *Poèmes Barbares* spectral stack used in the associated article can be [downloaded here](https://northwestern.box.com/s/5cjughjrl5eznon2jiojf8x6y0ufkj3b) <br>
