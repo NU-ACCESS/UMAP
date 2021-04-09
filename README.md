@@ -3,7 +3,7 @@
 
 This repository is a companion to the following paper: 
 
-> **Application of Uniform Manifold Approximation and Projection for Data Reduction and Visualization in Spectral Imaging of Artworks** <br>
+**Application of Uniform Manifold Approximation and Projection (UMAP) in spectral imaging of artworks** <br>
 > *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*, (2021) 252:119547, DOI: 10.1016/j.saa.2021.119547 <br>
 
 Marc Vermeulen (1), 
