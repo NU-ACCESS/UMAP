@@ -6,11 +6,7 @@ This repository is a companion to the following paper:
 **Application of Uniform Manifold Approximation and Projection (UMAP) in spectral imaging of artworks** <br>
 > *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*, (2021) 252:119547, DOI: 10.1016/j.saa.2021.119547 <br>
 
-Marc Vermeulen (1), 
-Kate Smith (2),
-Katherine Eremin (2),
-Georgina Rayner (2),
-and Marc Walton (1)<br>
+Marc Vermeulen (1), Kate Smith (2), Katherine Eremin (2), Georgina Rayner (2), and Marc Walton (1)<br>
 
 > 1. Northwestern University / Art Institute of Chicago Center for Scientific Studies in the Arts (NU-ACCESS), 2145 Sheridan Road, Evanston, IL, United States
 > 2. Harvard Art Museums, Straus Center for Conservation, 32 Quincy St, Cambridge, MA, United States
